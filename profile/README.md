@@ -7,7 +7,7 @@ UC Berkeley, UIUC, CMU, Apple | *, ^ denotes equal contribution
 We present SWE-Gym, the first environment for training real-world software engineering agents. We use it to train strong LM agents that achieve state-of-the-art open results on SWE-Bench, with early, promising scaling characteristics as we increase training and inference-time compute.
 
 
-- [Project Page](swe-gym.github.io](https://swe-gym.github.io/)
+- [Project Page](https://swe-gym.github.io/)
 - [Code](https://github.com/SWE-Gym/SWE-Gym)
 - [Data](https://huggingface.co/SWE-Gym)
 
